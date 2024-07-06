@@ -1,0 +1,10 @@
+datasets
+huggingface-hub
+hf-transfer
+protobuf
+click
+pydantic
+streamlit
+torch
+transformers
+
